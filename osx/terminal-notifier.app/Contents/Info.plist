@@ -9,9 +9,9 @@
 	<key>CFBundleExecutable</key>
 	<string>terminal-notifier</string>
 	<key>CFBundleIconFile</key>
-	<string>Terminal</string>
+	<string>Airdesk</string>
 	<key>CFBundleIdentifier</key>
-	<string>nl.superalloy.oss.terminal-notifier</string>
+	<string>com.serobinson.terminal-notifier</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -43,7 +43,7 @@
 	<key>LSUIElement</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2012 Eloy Durán. All rights reserved.</string>
+	<string>Copyright © 2012 Eloy Durán. All rights reserved.</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
